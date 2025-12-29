@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 Hi, I'm Kushal Biswas
 
-<!--
-**biswaskushal/biswaskushal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst | SQL • Python • Excel • Power BI**
 
-Here are some ideas to get you started:
+I help businesses grow by turning data into clear, actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills
+- SQL (MySQL)
+- Python (Pandas, NumPy)
+- Excel (Pivot Tables, Data Validation)
+- Power BI (DAX, Dashboards, Slicers)
+
+---
+
+### 📊 Featured Projects
+- **Sales Performance Analytics Dashboard**  
+  End-to-end sales analytics using SQL, Python, Excel, and Power BI.
+
+- **Customer Segmentation & Retention Analytics**  
+  Identifying high-value, repeat, and at-risk customers through data analysis.
+
+---
+
+### 🎯 Goal
+To help businesses make better decisions through data-driven analytics.
