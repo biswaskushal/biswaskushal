@@ -15,11 +15,14 @@ I help businesses grow by turning data into clear, actionable insights.
 ---
 
 ### 📊 Featured Projects
-- **Sales Performance Analytics Dashboard**  
-  End-to-end sales analytics using SQL, Python, Excel, and Power BI.
 
-- **Customer Segmentation & Retention Analytics**  
-  Identifying high-value, repeat, and at-risk customers through data analysis.
+🔹 **Sales Performance Analytics Dashboard**  
+End-to-end sales analytics using SQL, Python, Excel, and Power BI.  
+👉 Repository: https://github.com/biswaskushal/sales-performance-analytics
+
+🔹 **Customer Segmentation & Retention Analytics**  
+Customer behavior analysis to identify high-value, repeat, and at-risk customers.  
+👉 Repository: https://github.com/biswaskushal/customer-segmentation-retention
 
 ---
 
